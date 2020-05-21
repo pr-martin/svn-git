@@ -2,3 +2,5 @@ First line added in the trunk.
 
 Second line added in the trunk.
 
+Third line added in the branch.
+
