@@ -4,3 +4,5 @@ Second line added in the trunk.
 
 Third line added in the branch.
 
+Fourth line added in the trunk.
+
