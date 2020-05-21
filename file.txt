@@ -6,3 +6,5 @@ Third line added in the branch.
 
 Fourth line added in the trunk.
 
+Fifth line added in the git repo's master branch
+
